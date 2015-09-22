@@ -10,6 +10,14 @@ Set of Python 2.7 scripts augmenting:
     title = {Inferring Latent States and Refining Force Estimates via Hierarchical Dirichlet Process Modeling in Single Particle Tracking Experiments},
     year = 2015,
     journal = {PLOS ONE},
+    volume = {10},
+    issue = {9},
+    pages = {e0137633},
+    URL = {http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137633},
+    DOI = {10.1371/journal.pone.0137633},
+    PMID = {26384324},
+    ISSN = {1932-6203}
+}
 
 Subdirectory contents:
 * src --- folder containing python scripts
